@@ -1,0 +1,71 @@
+                    <div class="ui card">
+                       <div class="image">
+                          <img src="./kristy.png">
+                       </div>
+                   <div class="content">
+                     <a class="header">Kristy Sharma</a>
+                      <div class="meta">
+                        <span class="date">Joined in 2020</span>
+                      </div>
+                      <div class="description">
+                        Kristy is a full stack developer living in New York.
+                      </div><br>
+                    <div class="extra content">
+                      <a href="pals.html">
+                       <i class="user icon"></i>
+                         101 Pals
+                      </a>
+                  
+                           </div>
+                         </div>
+                      </div>
+
+
+
+                      ///////////////////////////////////////////////////////////////////////////////////////////////
+
+
+                      <div class="ui fluid card" id="exp_box">
+                  <h1>Experience</h1>
+                  <img src="ms.png" width="75px">
+                     <p><h2>DevOps Engineer</h2>
+                       <p>March 2017 - Dec 2019</p>
+
+                      <h3>Microsoft</h3>
+                    
+                     </p>
+
+                   <div class="ui section divider"></div>
+                
+                  <img src="fb1.jpg" width="75px">
+                    <h2>Software Intern</h2>
+                      <p>Jan 2020 - present</p>
+                  <h3>Facebook</h3>
+                </p>
+                
+              </div> 
+
+
+              ////////////////////////////////////////////////////////////////////////
+
+              <div class="ui card">
+                <div class="ui vertical fluid tabular menu">
+                  <a class="item">
+                    <ui dropdown>
+                    Skills
+                    </ui>
+                  </a>
+                  <a class="item ">
+                    Pics
+                  </a>
+                  <a class="item">
+                    Companies
+                  </a>
+                  <a class="item">
+                    Links
+                  </a>
+                </div>
+              </div>
+              
+              </div>
+            </div>

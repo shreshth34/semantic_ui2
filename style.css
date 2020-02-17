@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin+Condensed|Righteous|Amatic+SC:400,800');
+    body{
+    background: linear-gradient(to right, #a770ef, #cf8bf3, #fdb99b);
+    height: 2200px;
+    font-family: 'Righteous', sans-serif;
+    } 
+    a{
+      font-family: 'Cabin Condensed', sans-serif;
+      font-size: large;
+    }
+
+#div_sec_menu{
+
+    background-color: white;
+}
+
+#exp_box{
+    background-color:white;
+    box-shadow: 8px 8px 8px 8px #4e4b4b;
+    padding: 12px 15px;
+    margin: 8px 0;
+    width: 100%;
+}
