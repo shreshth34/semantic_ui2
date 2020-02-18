@@ -6,3 +6,38 @@ function myFunction() {
     document.body.style.background = randomColor;
    
   }
+
+document.getElementById("skill_menu").style.display = "none";
+
+function newFunction(){
+
+  var x = document.getElementById("skill_menu");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+
+
+function oneFunction(){
+
+  var x = document.getElementById("past_exp_box");
+  
+}
+
+document.getElementById("cert_2").style.display = "none";
+
+document.getElementById('cert_right').onclick = () => {
+  
+  var newData = document.getElementById('cert_2').innerHTML;
+
+  document.getElementById('cert_1').innerHTML = newData;
+
+  
+
+}
+
+
+
+
